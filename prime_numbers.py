@@ -18,4 +18,4 @@ def generate_prime(number):
 				list_prime.append(i) 	
 		return list_prime
 
-print(generate_prime(0))
+# print(generate_prime(0))

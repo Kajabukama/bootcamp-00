@@ -2,7 +2,7 @@
 # that generate prime numbers from 0 to n
 
 import unittest
-from app.prime_numbers import generate_prime
+from app.primes import generate_prime
 
 class TestCalculator(unittest.TestCase):
 
